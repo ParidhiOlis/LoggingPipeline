@@ -1,0 +1,18 @@
+# Slack Export
+# Name: DM__Anna
+# Channel ID: D099VGU6D6Y
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U099VGTSVKN
+# Messages: 7
+# Exported at: 2025-09-16T04:52:16.928487+00:00
+############################################################
+2025-08-10T21:34:43.498369+00:00 | Slackbot:
+2025-08-11T00:43:49.677839+00:00 | Anna: Anna joined Slack — take a second to say hello.
+2025-08-24T22:49:54.379059+00:00 | Anna: Hi Suhaas, hope you're enjoying the weekend! Wanted to reach out to say hi, and see what your availability was like this upcoming week in order for us to meet virtually? Let me know what days and times would work for you.
+2025-08-25T00:42:01.578799+00:00 | Suhaas: Hey Anna, how are you doing? I can connect with you any time excluding:
+1. 10:00 - 11:30 AM EST
+2. 2 - 3 PM EST.
+Would you be available tomorrow?
+2025-08-25T14:04:34.924949+00:00 | Anna: Hi Suhaas, I'm doing well! How are you? Yes, I'm available today...would 12pm EST / 11am CST today work for you?
+2025-08-25T14:50:35.627879+00:00 | Suhaas: Would 2 PM EST work for you?
+2025-08-25T15:10:41.981319+00:00 | Anna: Yes that works. I just sent over a meeting invite for later today.

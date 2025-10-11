@@ -1,0 +1,95 @@
+# Slack Export
+# Name: DM__Ara
+# Channel ID: D0993B6FJ9X
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U094M5BR6AZ
+# Messages: 78
+# Exported at: 2025-09-16T04:52:18.245089+00:00
+############################################################
+2025-08-02T03:58:34.975079+00:00 | Slackbot:
+2025-08-04T13:46:59.845229+00:00 | Suhaas: Suhaas accepted your invitation to join Slack — take a second to say hello.
+2025-08-04T18:08:18.483409+00:00 | Ara: Hey Suhaas, are you perhaps familiar with deepseek?
+2025-08-04T18:09:00.858289+00:00 | Ara: It was mentioned today by a connection, and I wanted to ask if it's something sustainable and feasible for us to implement as our language model..
+2025-08-04T20:17:33.946299+00:00 | Suhaas: Yes, I am familiar with Deepseek.
+Deepseek is a really good model open-source model and comparatively cheaper. It is much better at reasoning tasks. But GPT is more flexible for variable tasks.
+Choosing a language model is not a concern. For now, we can pick any good model and then it can be changed.
+We need to do perform blind testing to see which works better for our use cases.
+2025-08-04T21:33:51.723089+00:00 | Ara: Got it. Ok, we'll discuss when we get to the perform blind testing stage then.
+2025-08-04T21:34:11.833179+00:00 | Ara: Thanks Suhaas.
+2025-08-05T14:02:56.770759+00:00 | Ara: Hi Suhaas, I hadn't noticed that you weren't included in the team meeting invite!
+2025-08-05T14:03:21.360169+00:00 | Ara: Just forwarded!
+2025-08-05T14:03:22.904629+00:00 | Suhaas: Hey <@U094M5BR6AZ> yaa, I was about to message you regarding that
+2025-08-05T15:00:24.913899+00:00 | Ara: I'll tell you more about how Balraj and I met, and also how the team is connected to Balraj and I in our 1:1 meeting this afternoon :wink:
+2025-08-05T15:06:58.406709+00:00 | Suhaas: Hahaha...sure! :joy:
+2025-08-05T17:10:15.237599+00:00 | Suhaas: Hey Ara, can we sync up at 4 PM today or any time after that?
+2025-08-05T17:13:18.788459+00:00 | Ara: Of course! I'll move it to 4PM
+2025-08-05T17:13:49.451289+00:00 | Ara: Thanks for the heads up!
+2025-08-05T20:46:37.253549+00:00 | Ara: Oh!
+2025-08-05T20:46:38.301659+00:00 | Ara: <https://us05web.zoom.us/j/81171403932?pwd=a0q8ocAZ29f7b7crvbp8nBtAlMVO5d.1>
+2025-08-05T20:46:46.121439+00:00 | Ara: Here's a new link
+2025-08-05T20:46:50.809829+00:00 | Ara: What a timing....!
+2025-08-12T18:08:19.449799+00:00 | Ara: Hey Suhaas, are you still available for today's 1:1 meeting?
+2025-08-12T18:08:53.673539+00:00 | Ara: We can move to a different day/time. Not a problem at all. Let me know!
+2025-08-12T21:20:25.950579+00:00 | Suhaas: Hey Ara, Sorry it slipped my mind. Can we sync up tomorrow?
+2025-08-12T22:07:33.609799+00:00 | Ara: No worries at all :+1: Let's speak tomorrow at 12pm EST. How does that sound?
+2025-08-12T22:08:32.427129+00:00 | Ara: I got to finish up some work on my end so it was a win afterall haha
+2025-08-13T14:05:15.435839+00:00 | Ara: Hey Suhaas! Joining us for our team's meeting today?
+2025-08-13T16:08:49.494299+00:00 | Ara: Hey Suhaas, I'm connected to the meeting now, are you still available?
+2025-08-13T16:13:46.073829+00:00 | Ara: Ok, how about we connect later at 2pm.
+2025-08-13T16:14:38.664489+00:00 | Ara: BTW here's today's team meeting record: <https://olis874.sharepoint.com/:v:/s/welcometoolis/EWutdiY3ATtHlfj03H6Yk0QBSfgFUFsqBqgETBZO0F5fzg?e=EndBve|Weekly Team Meeting-Aug 12, 2025_101231-Meeting Recording.mp4>
+
+All recordings will be located in the same SP folder. Take a look at it when you have time!
+2025-08-13T16:19:46.726309+00:00 | Suhaas: Thanks Ara.
+Yes we can connect at 2 PM
+2025-08-13T17:41:40.555129+00:00 | Suhaas: Hey Ara, can we move it to 3?
+I am going to college for lunch.
+2025-08-13T17:45:06.336409+00:00 | Ara: Sure, I'll speak to you at 3.
+2025-08-14T14:41:05.418969+00:00 | Ara: Hey Suhaas, I know you're busy with packing, but would you be able to join briefly around 11am?
+2025-08-14T14:41:44.339869+00:00 | Ara: I wanted you to be a part of the UX meeting as I think it would be really really helpful for both you and Paridhi!
+2025-08-14T14:41:47.002079+00:00 | Ara: Let me know
+2025-08-20T16:00:41.852739+00:00 | Ara: Hey Suhaas! Running 5 minutes late
+2025-08-20T16:04:34.773829+00:00 | Ara: Ok in now
+2025-08-20T16:07:14.603789+00:00 | Ara: Joining me? :slightly_smiling_face:
+2025-08-20T16:12:11.655409+00:00 | Ara: Hey <@U0993B5MZSM>!
+2025-08-20T16:12:51.354289+00:00 | Suhaas: sorry for being late. joining now
+2025-08-20T16:13:29.860599+00:00 | Ara: No worries, see you!
+2025-08-20T16:17:09.173459+00:00 | Suhaas: Ara..do you have any other time slot free today? We can connect then.
+2025-08-20T16:17:32.032879+00:00 | Ara: :joy:
+2025-08-20T16:17:50.094649+00:00 | Ara: I'm free between 1:30--2pm EST
+2025-08-20T16:18:02.036789+00:00 | Ara: Only for 30 mins between meetings
+2025-08-20T16:18:03.610239+00:00 | Ara: How's that?
+2025-08-20T16:18:23.466159+00:00 | Suhaas: sure, works.
+I will share the recording of your voice
+2025-08-20T16:18:44.627519+00:00 | Ara: Hahaha okok
+2025-08-20T16:18:53.134809+00:00 | Ara: Chipmunk Ara I assume...
+2025-08-20T16:18:55.842759+00:00 | Ara: :joy:
+2025-08-20T16:21:01.678809+00:00 | Suhaas: :joy:
+2025-08-20T17:32:24.790539+00:00 | Ara: Interview going 5 min over!! Sorry Suhaas!!
+2025-08-20T17:35:39.955269+00:00 | Suhaas: sure np..take your time
+2025-08-20T17:37:36.236889+00:00 | Ara: Can you hear me...LOL
+2025-08-21T16:27:39.820449+00:00 | Ara: Hi <@U0993B5MZSM>, are you available for a call at 2pm today?
+2025-08-21T20:05:24.219359+00:00 | Suhaas: Hey <@U094M5BR6AZ> are you available now?
+2025-08-21T20:05:50.550959+00:00 | Ara: Hey Suhaas! Yes joining now. Sorry meeting is going over!
+2025-08-22T22:59:45.934429+00:00 | Ara: Check the <#C094M5C1QMB|> channel! Make sure to leave an emoji on the news &amp; updates, so we know you're onboard with the tasks! Also Anna just posted KPI metrics, please reach out to her to understand how you can support her for how she can gather data for investor meetings!
+The more support she gets, the quicker we can follow up with investors with proof for funding!!
+2025-08-23T21:20:22.127349+00:00 | Suhaas: Ya I checked the Anna's message. I need to give some time thinking thoroughly about the metrics. I will share the feedback with her later today or tomorrow once I am sure of it.
+2025-08-25T04:47:29.824559+00:00 | Ara: Thanks Suhaas-- love hearing your support!!!
+2025-08-25T15:42:09.292379+00:00 | Ara: You're killing it these days!!! See how everyone smiles every time you speak? I need your secret sauce...
+2025-08-25T19:03:36.521669+00:00 | Suhaas: Thanks Ara !!
+2025-09-03T13:39:40.945379+00:00 | Suhaas: Hey Ara, I need to go urgently go to the USPS today, after the team meeting. Will you be available at 2 PM?
+2025-09-03T13:46:47.858019+00:00 | Ara: Hey Suhaas, not a problem at all. Would you be ok with having our 1:1 tomorrow instead?
+2025-09-03T13:47:01.045539+00:00 | Ara: Turns out I have food poisoning...:melting_face:
+2025-09-03T13:48:06.004579+00:00 | Ara: I don't want to push the weekly meeting as we cancelled last week, but I don't think I'd be able to sit in the chair longer than an hour...
+2025-09-03T13:48:27.544699+00:00 | Ara: My apologies Suhaas...
+2025-09-03T13:49:41.152109+00:00 | Suhaas: Oh..it's fine Ara. Take care. Feel free to schedule it as per your convenience.
+2025-09-03T13:55:57.383939+00:00 | Ara: Thank you..! I moved it to same time tomorrow, 12pm. I hope this works!
+2025-09-03T14:04:45.594729+00:00 | Ara: Will you be joining us for our team meeting tho?
+2025-09-10T17:48:15.013139+00:00 | Ara: I'm actually changing directions, and am going to tailor the questions for CapitalG.
+2025-09-10T17:48:39.763839+00:00 | Ara: We're going to show the demo as if CapitalG employee was using it.
+2025-09-10T17:49:12.304749+00:00 | Ara: So I'm going to create all new docs. It's going to take me some time but I think it'll be more worth it, that we had personalized it to them :wink:
+2025-09-10T20:20:57.768809+00:00 | Suhaas: Oh Okk..will you be making docs from their website?
+2025-09-10T20:21:18.311289+00:00 | Suhaas: Also, can you share the five use cases that need to be presented?
+2025-09-10T20:29:40.850399+00:00 | Ara: Mmmm I'm going to modify Omnissa docs, tailor to CapitalG haha
+2025-09-10T20:29:48.132589+00:00 | Ara: Yes sorry for the delay!
+2025-09-10T20:30:09.564439+00:00 | Ara: I was working with Yujin on the motion design. The short clip is coming along really well....
+2025-09-10T20:30:19.479649+00:00 | Ara: Let me forward that to you right now

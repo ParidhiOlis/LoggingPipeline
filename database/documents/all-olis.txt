@@ -1,0 +1,118 @@
+# Slack Export
+# Name: all-olis
+# Channel ID: C094M5C1QMB
+# Type: public_channel, Private: False, IM: False, MPIM: False
+# Members: U094M5BR6AZ, U098289ML6P, U09828GJ4UT, U0986GHVC6R, U0993B5MZSM, U099RAD9RGV, U099VGTSVKN, U09AJ4FN10C, U09ALRTBA9H, U09BYBGEC5A, U09DMN6B3LK
+# Messages: 39
+# Exported at: 2025-09-16T04:52:14.830856+00:00
+############################################################
+2025-07-07T14:20:24.265459+00:00 | Ara: <@U094M5BR6AZ> has joined the channel
+2025-07-30T19:56:02.376809+00:00 | Ara: Some references/competitors to look into:
+• Suki AI: <https://www.suki.ai/>
+• Cluely: <https://cluely.com/>
+• TwinMind: <https://twinmind.com/>
+• Abridge: <https://www.abridge.com/>
+• Grammarly: <https://www.grammarly.com/>
+2025-07-30T19:59:22.304109+00:00 | Ara: Common features amongst these competitors:
+• *Always-on &amp; proactive;* agents listen to context or system events and act without prompting.
+• *Context-aware &amp; cross-modal;* they monitor audio, calendar, browsing, or UI elements.
+• *Minimal UI footprint;* most of their power comes behind the scenes, not via chat windows or visible controls.
+BUT none like Olis. We are leading to be the first at "enterprise operations ambient intelligent" :wink:
+2025-07-31T07:29:35.640839+00:00 | Paridhi Talwar: <@U098289ML6P> has joined the channel
+2025-08-01T17:23:06.591919+00:00 | Ara: Hi all,
+
+Let's try to keep our *everyday communications in Slack*, and *documentation in our <https://olis874.sharepoint.com/sites/welcometoolis|company Sharepoint folder>* to help with product testing later on.
+
+To ensure Olis works (read, obtain, regurgitate data across enterprise apps &amp; employee communications), we will need to test within our company first.
+
+Appreciate your cooperation! :pray:
+2025-08-03T17:04:53.126819+00:00 | Vikram: <@U09828GJ4UT> has joined the channel
+2025-08-04T13:47:00.109639+00:00 | Suhaas: <@U0993B5MZSM> has joined the channel
+2025-08-11T00:43:48.551009+00:00 | Anna: <@U099VGTSVKN> has joined the channel
+2025-08-11T16:49:26.508989+00:00 | Ron Lewis: <@U099RAD9RGV> has joined the channel
+2025-08-11T19:25:46.216309+00:00 | Ara: <!here>,
+
+Happy Monday! Starting with *tomorrow’s team meeting*, each member will have about 1 minute to share any quick updates on 1. Current progress 2. Any blockers or issues 3. What you’ll be focusing on for the rest of the week.
+
+This is to keep visibility high across the team and create space for support and alignment. Nothing fancy, but please come prepared.
+
+I'll also be sharing a few mini goals by team for the remainder of August and into September. If there's anything specific you'd like to add or flag, feel free to write here or dm me directly.
+2025-08-12T13:49:36.202989+00:00 | Ara: <!here>,
+
+Hi team, all team weekly meetings, including today's, will be moved to tomorrow at 10am EST (8:30pm IST, 7:00am PST, 8am CST). Thank you.
+2025-08-15T13:22:37.113739+00:00 | Yujin: <@U09AJ4FN10C> has joined the channel
+2025-08-15T16:21:34.134419+00:00 | Ara: *<!channel> ,*
+
+Happy Friday everyone! <@U0993B5MZSM> was able to bring a new competitor to our attention, a YC startup called *<https://www.usemirror.ai/|Mirror>*.
+
+A "real-time intelligence" where user can connect their gmail, gdrive, and other data platforms to pull answers from. Very similar to Olis, but not quite "ambient intelligence".
+
+What differentiates us from our competitors is that we go above and beyond by automatically absorbing and organizing user data on screen + ambiently surfacing answers where the user is typing, not through a search bar. So far, no other competitor does this, not even Glean (our largest competitor).
+
+I'm going to try it out myself, and *I implore everyone to at least view the product* to familiarize with what's out there.
+2025-08-15T16:25:43.957909+00:00 | Ara: Also, we're looking to hire new engineers for our team ASAP:
+1. Security Engineer
+2. Full-Stack Software Engineer (Regular OR Intern)
+Details for each position can be found on our website <https://olis-ai.com/#black-2|olis-ai.com (careers)>. If there's anyone you know in your network, please let myself know!
+2025-08-18T04:17:31.983119+00:00 | yujin: <@U09ALRTBA9H> has joined the channel
+2025-08-18T04:37:55.298739+00:00 | yujin: Hi everyone, I'm Yujin!
+
+I've joined Olis as a designer -- anything you might need designed down the line--decks, product, Photoshopping your teeth to be straight--feel free to leave me a request! Right now I am focusing on the pitch deck and the product design, but next month I'm planning on redesigning the logo and website as well.
+
+I joined through Ara, who is my partner in work and love! I am paid in home cooked dinners and compliments :innocent: I am really excited this project and am determined to make Olis the most beautiful product/brand on the crowded AI market.
+
+I am also based in New York, same as Ara. If you need to reach me, imessage or whatsapp is probably the fastest way to get an answer. My phone number is <tel:+16618879464|+16618879464>
+
+I've already had a chance to say hi to Anna and Paridhi, really look forward to meeting the rest of you all!
+2025-08-18T04:53:09.763769+00:00 | Ara: #clips yay
+2025-08-18T04:54:26.101549+00:00 | Ara: Love the introduction:joy: welcome to the team, Yujin!!!
+2025-08-19T22:28:53.044239+00:00 | Ara: <!channel>  :mega:
+
+Happy Tuesday team... We got our first <https://www.linkedin.com/posts/olis-ai_what-if-we-could-search-through-every-document-activity-7363689216142163968-n2iv?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACxnhN4B1S9R4yzS4QU95Q8QlfsfFF0kpTE|LinkedIn post up>! Go ahead and check it out, give a thumbs up, heart, celebrate, and repost! It would mean a lot. :star-struck:
+2025-08-20T19:01:15.027139+00:00 | Ara: <!channel> :mega:
+
+REMINDER: Don't forget to set up a meeting (camera ON) with your partners this week! Here's the link to the <https://olis874.sharepoint.com/:p:/r/sites/welcometoolis/_layouts/15/Doc.aspx?sourcedoc=%7B27EFB082-CE61-46E0-A594-4441666CC074%7D&amp;file=Weekly%20Team%20Meeting%20(Aug%2019%2C%202025).pptx&amp;action=edit&amp;mobileredirect=true|weekly meeting deck> .
+
+Next Wednesday everyone will be asked to share 1 interesting thing about your partner. Be prepared!
+
+If you see this message, add a reaction, or else... :melting_face:
+2025-08-22T18:12:02.046929+00:00 | Anna: Happy Friday, team! Please check out the updated KPI slides in the weekly meeting deck, linked above - I have added definitions, targets, and more details to the KPI details slide. You can also check out the KPI &amp; ROI Dashboard notion page which includes this information: <https://www.notion.so/256a56d39545800b9d16ef16b36cb768?v=256a56d3954580a5a90d000c9e8251b1>
+
+Reach out with any questions or feedback :slightly_smiling_face:
+2025-08-25T15:27:30.885379+00:00 | Ji Su Lee: <@U09BYBGEC5A> has joined the channel
+2025-08-27T13:49:54.774899+00:00 | Ara: *<!channel>* 
+
+Good morning team, I forgot that today's a national holiday in India! Today's weekly meeting will be moved and combined with next week's meeting.
+
+FYI... It's our big dawg <@U099RAD9RGV>’s birthday this Sunday, Aug 31!! Everyone please go wish him a happy birthday and share some love with the birthday boy :heart::partying_face:
+2025-08-27T13:53:45.180619+00:00 | Anna: Happy early birthday, Ron! :birthday::tada:
+2025-08-27T14:04:58.234479+00:00 | Suhaas: Happy birthday Ron!!
+2025-08-27T19:49:20.735529+00:00 | Ji Su Lee: Hi everyone:wave: I meant to introduce myself during the weekly meeting but since it was moved, just saying hi here.
+I'm excited to join the team as the Security &amp; Integration Engineer and I look forward to working and building the product with everyone!:saluting_face:
+2025-08-27T19:56:53.775699+00:00 | Anna: Welcome to the team and to Olis! Looking forward to meeting you in the next team meeting and working with you!
+2025-08-28T01:42:42.515079+00:00 | yujin: Happy early birthday Ron :birthday:, and welcome Jisu!!
+2025-08-28T05:41:18.267109+00:00 | Ron Lewis: Welcome to the team Ji Su Lee and thank you everyone.
+2025-08-28T16:46:59.022499+00:00 | Ara: Welcome to the team Ji Su!!! We're so so excited to have you. Can't wait to see all the progress you'll make here at Olis :star-struck::rocket:
+2025-08-28T22:57:00.526279+00:00 | Ara: <!channel>  Team,
+
+We got some anticipating good news... Last week, Yujin went to go get her teeth checked out in Manhattan and stumbled on the topic of Olis with the dentist. Turns out the dentist's daughter apparently works at CapitalG; Alphabet (Google's mother company) Investment Firm.
+
+Today, we got in contact with the daughter and are looking forward to an introductory meeting on the week of 9/15.
+
+Although there's no guarantee, this definitely marks the start, and I hope they'll be able to recognize the value, effort, and dedication we have all put into Olis.
+
+None of this would be possible if it weren't for you guys/gals, and I'm thankful to have each and every one of you at Olis. Thank you.
+
+Let's keep doing us, keep doing you, and surprise them with the best ambient intelligent the world's gotta see!!!! :star-struck::rocket:
+
+P.S Thank you, Yujin :heart:
+2025-09-03T14:26:49.999629+00:00 | yujin: Birthdays here please!! This is a mandatory message. <!everyone>
+2025-09-05T15:35:22.099609+00:00 | Daniel Kang: <@U09DMN6B3LK> has joined the channel
+2025-09-11T00:33:10.524139+00:00 | yujin: ara and I workshopped a little motion piece to share with the folks at Capital G! :100:
+2025-09-11T00:38:47.297909+00:00 | Ara: AMAZINGGG WORK YUJIN
+2025-09-11T00:39:41.795569+00:00 | Ara: BEAUTIFULLY DONE p.s. love the music choice
+2025-09-11T00:40:25.891339+00:00 | Ara: BTW everyone, Yujin created this motion vid in just 3hrs.... she's a design monster...:troll:
+2025-09-11T14:39:05.912659+00:00 | Daniel Kang: Amazing work! That looks... :pinched_fingers:
+
+Also, hi everyone, my name is Daniel and I am the newest founding engineer. Excited to work on Olis with everyone om the team!
+2025-09-11T15:15:42.689249+00:00 | Ara: Welcome to the team, Daniel! :tada:

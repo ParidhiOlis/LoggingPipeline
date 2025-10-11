@@ -1,0 +1,21 @@
+# Slack Export
+# Name: ideas
+# Channel ID: C09C6CSNS0Z
+# Type: public_channel, Private: False, IM: False, MPIM: False
+# Members: U094M5BR6AZ, U098289ML6P, U09828GJ4UT, U0986GHVC6R, U0993B5MZSM, U099RAD9RGV, U099VGTSVKN, U09AJ4FN10C, U09ALRTBA9H, U09BYBGEC5A, U09DMN6B3LK
+# Messages: 11
+# Exported at: 2025-09-16T04:52:15.830499+00:00
+############################################################
+2025-08-24T13:58:06.640519+00:00 | yujin: <@U09ALRTBA9H> has joined the channel
+2025-08-24T13:58:09.995879+00:00 | Ara: <@U094M5BR6AZ> has joined the channel
+2025-08-24T13:58:10.119269+00:00 | Paridhi Talwar: <@U098289ML6P> has joined the channel
+2025-08-24T13:58:10.254859+00:00 | Vikram: <@U09828GJ4UT> has joined the channel
+2025-08-24T13:58:10.511219+00:00 | Suhaas: <@U0993B5MZSM> has joined the channel
+2025-08-24T13:58:10.610449+00:00 | Ron Lewis: <@U099RAD9RGV> has joined the channel
+2025-08-24T13:58:10.692649+00:00 | Anna: <@U099VGTSVKN> has joined the channel
+2025-08-24T13:58:10.760519+00:00 | Yujin: <@U09AJ4FN10C> has joined the channel
+2025-08-24T13:59:45.149469+00:00 | yujin: Notion has been rolling out an ad campaign across NYC especially for Notion AI... :eyes: 
+
+Search every app? Yes but only after logging in 50 times!
+2025-08-25T15:27:30.944869+00:00 | Ji Su Lee: <@U09BYBGEC5A> has joined the channel
+2025-09-05T15:35:22.158029+00:00 | Daniel Kang: <@U09DMN6B3LK> has joined the channel

@@ -1,0 +1,8 @@
+# Slack Export
+# Name: DM__OneDrive and SharePoint
+# Channel ID: D0993B6VCRF
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U098H1VPV5L
+# Messages: 0
+# Exported at: 2025-09-16T04:52:17.989715+00:00
+############################################################

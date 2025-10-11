@@ -1,0 +1,9 @@
+# Slack Export
+# Name: DM__wf_bot_a097w2rfs0n
+# Channel ID: D098MSC2A66
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U097W2X09V4
+# Messages: 1
+# Exported at: 2025-09-16T04:52:18.859497+00:00
+############################################################
+2025-08-02T03:53:29.328829+00:00 | Welcome message: Hi there! Welcome to <#C097UKGTQJF|>. Use this form to share an introduction in the channel.

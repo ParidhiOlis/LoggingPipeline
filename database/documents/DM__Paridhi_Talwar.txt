@@ -1,0 +1,179 @@
+# Slack Export
+# Name: DM__Paridhi Talwar
+# Channel ID: D0993B772CR
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U098289ML6P
+# Messages: 131
+# Exported at: 2025-09-16T04:52:17.630250+00:00
+############################################################
+2025-08-02T03:58:36.241789+00:00 | Slackbot:
+2025-08-04T13:47:02.271119+00:00 | Suhaas: Suhaas joined Slack — take a second to say hello.
+2025-08-05T08:26:43.275449+00:00 | Paridhi Talwar: Hey Suhaas, were you able to go through the datasets and identify what docs we would need currently?
+2025-08-05T13:54:03.617319+00:00 | Suhaas: Hey Paridhi, I think I missed it. Has Ara shared the internal files for the dataset?
+I was thinking of using some public documentations of a product for the starters.
+But if we already have the internal docs, could you please share them?
+2025-08-05T15:00:08.647149+00:00 | Suhaas: Do we have an active repository to push the code?
+2025-08-05T15:00:33.513279+00:00 | Paridhi Talwar: no we haven't set up the github yet
+2025-08-05T15:01:12.386439+00:00 | Paridhi Talwar: also about the dataset did you go ahead and check the sharepoint folder?
+2025-08-05T15:02:36.416529+00:00 | Paridhi Talwar: Ara had posted dataset which she received from Omnissa company and it's a really good and big dataset which we can try and use
+2025-08-05T15:04:02.558369+00:00 | Paridhi Talwar: Also a headsup we might be presenting our prototype first to Omnissa after we finish it. Hence the dataset would be useful for us to work on it
+2025-08-05T15:05:51.880799+00:00 | Paridhi Talwar: about the github let me ask Ara and set it up..if she needs a different github profile for the company or does she want us to continue using ours.
+2025-08-05T15:06:02.658759+00:00 | Suhaas: Oh I forgot about sharepoint.
+I will create a GitHub repo from my Olis account and add you as a contributor.
+I will try to get the basic RAG pipeline running.
+Do you have any preferences for a vector DB? I have used only Pinecone before
+2025-08-05T15:06:28.034089+00:00 | Suhaas: Cool I will go through the Omnissa data
+2025-08-05T15:07:18.178349+00:00 | Paridhi Talwar: no Pinecone works for me
+2025-08-05T15:08:05.713619+00:00 | Paridhi Talwar: Yes also let me also confirm once with Ara if she wants a seperate secured github profile for the company or not
+2025-08-05T15:12:08.183459+00:00 | Paridhi Talwar: hey up for a short call?
+2025-08-05T15:16:19.646919+00:00 | Suhaas: in 15 mins?
+2025-08-05T15:19:02.711669+00:00 | Paridhi Talwar: okay
+2025-08-05T15:35:08.378699+00:00 | Suhaas: you available now?
+2025-08-05T16:41:41.084249+00:00 | Paridhi Talwar: Hi really sorry, was in a call. I just wanted to talk about the dataset and all. So I was thinking we use few documents first to set up the model and then later we can use other docs as well. And about OpenAI API maybe we don't need for now while build RAG pipeline but later when we use I checked up the pricing of it too so its not much. So like for dataset in that itself there are a lot of company folders and then pdfs, docs in them and if even images. So I was thinking for the small dataset we can use like 4-5 companies and 5-6docs under their folders maybe? What do you think?
+2025-08-05T16:42:20.060129+00:00 | Paridhi Talwar: The docs include NRFs, NDA, PSA etc. docs
+2025-08-06T04:01:37.590289+00:00 | Paridhi Talwar: Any updates?
+2025-08-06T14:12:31.324239+00:00 | Suhaas: Can you share your GitHub username created with Olis account?
+2025-08-06T15:24:27.041369+00:00 | Paridhi Talwar: I sent you an invite for pinecone
+2025-08-06T15:25:12.934029+00:00 | Paridhi Talwar: Pinecone ka API key I have copied in my VS so let me know when you need cause you can't copy it again
+2025-08-06T15:25:51.603079+00:00 | Paridhi Talwar: Githib pe I need to make account with Olis id..let me so that
+2025-08-06T15:31:43.024969+00:00 | Paridhi Talwar: ParidhiOlis - github
+<mailto:paridhit@olis-ai.com|paridhit@olis-ai.com>
+2025-08-06T15:44:22.451219+00:00 | Suhaas: API key share kar do
+2025-08-06T17:29:59.902189+00:00 | Paridhi Talwar: pcsk_4FP3yb_UhhQVf2MsLM1dgwTnqPtpVNbHgj99vmaZeKX9JUbYV9Ebd5WERWibBbsNjnQCw6
+2025-08-07T05:31:40.904159+00:00 | Suhaas: what's the pinecone environment value
+2025-08-07T05:38:55.258869+00:00 | Paridhi Talwar: When you make a pinecone index, there is pinecone environment details too..that's like where it is hosted. I think its similar to how we create a virtual env on VS but its where the vector db is
+2025-08-07T05:39:24.011329+00:00 | Paridhi Talwar: I haven't created the index yet
+2025-08-07T05:39:43.047259+00:00 | Paridhi Talwar: So maybe you can create one and then share the details?
+2025-08-07T05:40:44.618369+00:00 | Paridhi Talwar: I had just created pinecone pe project but not the index
+2025-08-07T07:36:41.528069+00:00 | Suhaas: I can focus on the RAG part.
+Meanwhile, if you have time can you check how to build overlays like Grmmarly.
+1. How to build overlay?
+2. How to read existing conversation or mail thread?
+We can discuss it tomorrow.
+2025-08-07T07:38:01.444769+00:00 | Paridhi Talwar: Ohh okay cool will do that
+2025-08-07T07:38:38.177259+00:00 | Suhaas: I searched on GPT and it gave me this response:
+Might be a starting point
+2025-08-07T07:40:35.621039+00:00 | Paridhi Talwar: Wow okay this is good. I'll also check with Claude as it gives really good and deep insights too and probably would also see docs on Google if I could find
+2025-08-07T07:41:49.569719+00:00 | Suhaas: cool thanks
+2025-08-07T07:44:02.618659+00:00 | Paridhi Talwar: No problem btw how is the RAG part going? I was also recommended by Claude to put a logging system too while building it.
+2025-08-07T15:25:25.768659+00:00 | Paridhi Talwar: So sorry I left before asking if you have any Qs or discussing about the pipeline or overlay. If you want ask or discuss or anything you can send me here. I am looking into the overlay part as well and that's how I actually came up with the Q of how she wants olis to pop out out of those 3 options
+2025-08-08T06:04:53.799809+00:00 | Suhaas: Cool, I have pushed the RAG pipeline to Github. Its running at the moment.
+Need to add optimizations.
+2025-08-08T06:06:08.435429+00:00 | Paridhi Talwar: Cool nice I'll pull it up and try on mine as well!
+2025-08-08T12:06:00.933239+00:00 | Paridhi Talwar: Hey Suhaas, I am getting the error of max pods reached for pinecone...:smiling_face_with_tear:
+2025-08-12T15:18:41.704909+00:00 | Paridhi Talwar: Hey suhaas, wanted to check are you still using vllm and llama-cpp-python for the backend of our pipeline? Cause like I forgot to mention on Friday when I tried to run it I had also faced problems with the llm backend..vllm I couldn't use and the other one had some installation problem which I am trying to solve.
+2025-08-12T15:19:29.317579+00:00 | Paridhi Talwar: Tabhi toh I tried with ig free OpenAI api key
+2025-08-13T14:09:00.195889+00:00 | Paridhi Talwar: Hey suhaas, will you be able to join today's meeting
+2025-08-13T14:14:01.062389+00:00 | Paridhi Talwar: also if you are okay, we can connect on whatsapp as well?
+<tel:+919727838494|+91-9727838494> (indian whatsapp no.)
+2025-08-13T15:44:38.593169+00:00 | Suhaas: for the llm, initially I used quantized Mistral 7B with llamacpp.
+Abhi to I am using gpt using the college lab's account (not on Omnissa docs)
+2025-08-13T15:45:48.131689+00:00 | Paridhi Talwar: Okay cool
+2025-08-16T12:53:14.043479+00:00 | Paridhi Talwar: Hi Suhaas, I just wanted to know if there is any update from your side. And also the number that you gave do you have whatsapp with that? Just wanted to know as it'll be easier for us to be in contact with each other
+2025-08-19T00:46:34.411369+00:00 | Suhaas: mai api endpoint bank bhejta hu
+2025-08-19T02:45:54.865479+00:00 | Paridhi Talwar: Haan okay
+2025-08-19T15:04:10.248579+00:00 | Paridhi Talwar: <https://www.linkedin.com/in/aaditree-jaisswal/|https://www.linkedin.com/in/aaditree-jaisswal/>
+
+<https://www.linkedin.com/in/vinitp0310?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app|https://www.linkedin.com/in/vinitp0310?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app>
+
+<https://www.linkedin.com/in/yuwatinyi/|https://www.linkedin.com/in/yuwatinyi/>
+2025-08-20T04:52:08.853989+00:00 | Suhaas: apna frontend wala codę bhejna
+2025-08-20T08:11:20.452519+00:00 | Paridhi Talwar: omg so sorry I just saw your msg
+2025-08-20T08:11:44.261539+00:00 | Paridhi Talwar: I'll upload it right away on the github under extension folder
+2025-08-20T14:02:49.029599+00:00 | Paridhi Talwar: meeting!!
+2025-08-20T14:02:51.231279+00:00 | Paridhi Talwar: come come
+2025-08-20T14:30:07.204979+00:00 | Paridhi Talwar: Btw I have pushed the code on github
+2025-08-20T16:12:18.872969+00:00 | Suhaas: haan dekha...apne rag se connect kar rha hu
+2025-08-20T17:35:57.154489+00:00 | Paridhi Talwar: Okayss
+2025-08-21T04:30:44.176699+00:00 | Paridhi Talwar: helloo..status on the integration part?
+2025-08-21T13:59:32.741649+00:00 | Suhaas: kal raat tak kaam kar raha tha...abhi nahi kar raha :smiling_face_with_tear:
+2025-08-21T13:59:45.735589+00:00 | Suhaas: revert karaoke dekh raha hu
+2025-08-22T15:34:52.198499+00:00 | Suhaas: code zip file me share kar du?
+2025-08-22T15:35:19.339349+00:00 | Paridhi Talwar: haan okay np
+2025-08-22T15:35:26.741679+00:00 | Paridhi Talwar: mein bhi likh hi rahi thi yeh
+2025-08-22T15:35:43.990489+00:00 | Paridhi Talwar: ki send the code so that I can start working on the other things we discussed about
+2025-08-22T15:37:08.937519+00:00 | Paridhi Talwar: acha also along with this we also need to look on logging metadata thingy cause Anna wants to know how and what is coming before she could start working on dashboards
+2025-08-22T15:40:15.098179+00:00 | Paridhi Talwar: 1. Intent
+2. Metadata Logs
+3. Olis stucks on prev query
+what else was there jispe abhi kaam karna hai? isme add kardooo
+2025-08-22T15:47:40.503759+00:00 | Suhaas: <https://olis874-my.sharepoint.com/:w:/g/personal/suhaask_olis-ai_com/EUtdW2_1bXJEkpLAZxiOy8MBzg0wYkAuDS2kGYd5gMxWHg?e=eEBhoU|Generator.docx>
+2025-08-22T15:48:22.831339+00:00 | Suhaas: I was using this for rough draft.
+Isi me daal dena. We will highlight the priority tasks
+2025-08-22T15:53:31.180709+00:00 | Paridhi Talwar: Done
+2025-08-22T15:53:48.471869+00:00 | Paridhi Talwar: I'll do that
+2025-08-22T16:44:33.642429+00:00 | Suhaas: <https://olis874-my.sharepoint.com/:u:/g/personal/suhaask_olis-ai_com/EVXgRhYTK-JCgSdDx7TmYtcBe4N0RyT6kNldcl1o-kheOw?e=zD1hGU>
+2025-08-22T16:44:53.966119+00:00 | Suhaas: If you won't be working on it now, mai git me hi daal dung...wahi se Utah lena
+2025-08-22T16:44:56.802379+00:00 | Suhaas: utha
+2025-08-22T17:17:12.372399+00:00 | Paridhi Talwar: Haan okay
+2025-08-22T17:17:18.794419+00:00 | Paridhi Talwar: Kal hi dekhungi mein
+2025-08-23T23:12:41.733469+00:00 | Suhaas: Its updated in GitHub (dev)
+Ek folder add kar dena where you will have test files.
+And update the files location in config.py.
+2025-08-24T13:47:41.646689+00:00 | Paridhi Talwar: did you upload the integrated one?
+2025-08-24T14:28:38.836939+00:00 | Paridhi Talwar: I did the backend setup and all and its working but I thought you will add the integrated one on github:sob:
+2025-08-24T21:49:25.664259+00:00 | Suhaas: Integrated one matlab?
+Oh okk... chrome extension code me chota sa change hai.
+I will push it to Github as well.
+2025-08-25T03:13:59.961909+00:00 | Paridhi Talwar: Okay haha
+2025-08-25T03:14:11.450289+00:00 | Paridhi Talwar: Thank you
+2025-08-25T13:08:33.820969+00:00 | Paridhi Talwar: Hey, let's discuss what to ask and what to do for the interview today
+2025-08-25T13:31:29.834189+00:00 | Suhaas: Free ho?
+2025-08-25T13:44:32.263769+00:00 | Paridhi Talwar: Helloo
+2025-08-25T13:44:40.741939+00:00 | Paridhi Talwar: Sorry my phone was on silent
+2025-08-25T14:59:16.399189+00:00 | Paridhi Talwar: come come
+2025-08-27T11:47:31.151919+00:00 | Paridhi Talwar: <https://github.com/BerriAI/litellm|https://github.com/BerriAI/litellm>
+I found about this startup's github for llms
+2025-08-28T14:14:20.827259+00:00 | Suhaas: next week se Anna ke saath ek weekly sync up share karna hai.
+tumhare lye kanas time sahi rahega?
+2025-08-28T15:53:03.136529+00:00 | Paridhi Talwar: yeah good Q
+2025-08-28T15:53:16.156889+00:00 | Paridhi Talwar: idk we have so many meetings:sob:
+2025-08-28T15:56:54.359559+00:00 | Paridhi Talwar: Maybe Wednesdays? Cause I have like 2-3meetings on tues and thurs
+2025-08-28T16:01:00.719969+00:00 | Suhaas: cool chalega
+2025-08-28T16:02:43.661679+00:00 | Paridhi Talwar: Okayyy
+2025-08-28T16:03:01.647689+00:00 | Paridhi Talwar: Let Ara and Anna both know about it
+2025-08-28T16:03:03.961259+00:00 | Paridhi Talwar: Also
+2025-08-28T16:03:36.904729+00:00 | Suhaas: cool
+2025-08-28T16:03:59.686539+00:00 | Paridhi Talwar: The linkedin guy..he is available on 30th from 10am to 12pm EDT do you wanna have the interview then or some other day?
+2025-08-28T16:11:53.786529+00:00 | Suhaas: works for me. wbu
+2025-08-28T16:20:13.801379+00:00 | Paridhi Talwar: I am okay too
+2025-08-28T16:20:49.144719+00:00 | Paridhi Talwar: Let's schedule the interview with him then for that time
+2025-08-28T16:23:16.140819+00:00 | Paridhi Talwar: Did you see the github link I sent?
+2025-08-29T16:06:00.276129+00:00 | Suhaas: kal pane time ke hisaab se set kar lo...mera to din hai to mai mko chalega
+2025-08-29T16:06:20.126979+00:00 | Suhaas: product meeting wale time me chalega?
+2025-08-29T16:06:32.778759+00:00 | Suhaas: GitHub olis wala?
+2025-08-29T16:08:20.800599+00:00 | Paridhi Talwar: haan mujhe kuch bhi time chalega
+2025-08-29T16:08:32.218129+00:00 | Paridhi Talwar: batao should I put 10 or 11?
+2025-08-29T16:08:59.997779+00:00 | Paridhi Talwar: not olis wala github upar ek link bheja hai na voh wala github
+2025-08-29T16:14:53.844479+00:00 | Suhaas: 11
+2025-08-29T16:16:56.950619+00:00 | Paridhi Talwar: okay 11-11:45?
+2025-08-29T16:26:51.594489+00:00 | Paridhi Talwar: I have sent invite do let me know if you got it or not
+2025-08-29T17:29:54.139229+00:00 | Suhaas: Mil gaya
+2025-08-29T17:30:05.125819+00:00 | Suhaas: Mai questions deka ke rakhta hu
+2025-08-29T17:31:09.528959+00:00 | Suhaas: litellm ka dekha maine...ek baar try krke dekhunga iss weekend
+2025-08-29T17:56:25.236619+00:00 | Paridhi Talwar: Yesss and let me know how is it
+2025-08-29T17:58:03.741809+00:00 | Paridhi Talwar: Also really sorry he just sent me a msg for rescheduling his interview, what time do you think will be best?
+Hi Paridhi,
+
+My apologies for the delayed response. I came down with something unexpectedly yesterday and have been offline.
+
+Thank you for following up and confirming my email address. As I'm still not feeling 100%, would it be possible to reschedule our conversation from tomorrow morning? I want to ensure I'm at my best for our discussion.
+
+I am still very keen to chat. Would sometime tomorrow evening work, or perhaps early next week at your convenience?
+
+Thank you for your understanding.
+
+Best,
+Prathamesh
+2025-09-01T15:48:57.235759+00:00 | Suhaas: free abhi?
+2025-09-01T15:49:13.658449+00:00 | Paridhi Talwar: haan
+2025-09-01T15:49:23.894189+00:00 | Paridhi Talwar: I was anyways about to text you too
+2025-09-01T15:49:34.326589+00:00 | Paridhi Talwar: whatsapp?
+2025-09-01T15:49:39.692859+00:00 | Paridhi Talwar: or here?
+2025-09-01T15:49:40.630179+00:00 | Suhaas: haan
+2025-09-02T05:26:08.779109+00:00 | Paridhi Talwar: GitHub - zilliztech/GPTCache: Semantic cache for LLMs. Fully integrated with LangChain and llama_index. <https://share.google/2cu6aDYLevchcmOKX|https://share.google/2cu6aDYLevchcmOKX>
+2025-09-04T14:31:47.277179+00:00 | Paridhi Talwar: come come
+2025-09-04T14:31:50.212419+00:00 | Paridhi Talwar: meeting
+2025-09-10T15:48:02.990969+00:00 | Paridhi Talwar: <mailto:danielk@olis-ai.com|danielk@olis-ai.com>
+2025-09-12T15:36:49.441429+00:00 | Paridhi Talwar:
+2025-09-15T13:53:42.584379+00:00 | Paridhi Talwar: yooo we do not have a proper knowledge graph right?

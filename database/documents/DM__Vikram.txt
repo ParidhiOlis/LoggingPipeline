@@ -1,0 +1,10 @@
+# Slack Export
+# Name: DM__Vikram
+# Channel ID: D0993B76PU1
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U09828GJ4UT
+# Messages: 2
+# Exported at: 2025-09-16T04:52:17.815127+00:00
+############################################################
+2025-08-02T03:58:37.921889+00:00 | Slackbot:
+2025-08-04T13:47:01.338359+00:00 | Suhaas: Suhaas has joined Slack – take a second to say hello.

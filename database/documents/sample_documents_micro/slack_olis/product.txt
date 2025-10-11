@@ -1,0 +1,164 @@
+# Slack Export
+# Name: product
+# Channel ID: C097UKGTQJF
+# Type: public_channel, Private: False, IM: False, MPIM: False
+# Members: U094M5BR6AZ, U098289ML6P, U0993B5MZSM, U099VGTSVKN, U09AJ4FN10C, U09ALRTBA9H, U09BYBGEC5A, U09DMN6B3LK
+# Messages: 116
+# Exported at: 2025-09-16T04:52:15.392747+00:00
+############################################################
+2025-07-29T13:25:28.658029+00:00 | Ara: <@U094M5BR6AZ> has joined the channel
+2025-07-29T13:30:42.888719+00:00 | Slackbot:
+2025-07-30T15:08:09.456759+00:00 | Paridhi Talwar: <@U098289ML6P> has joined the channel
+2025-08-02T03:53:26.625609+00:00 | Suhaas: <@U0993B5MZSM> has joined the channel
+2025-08-02T17:37:21.405589+00:00 | Ara: <https://x.com/aigleeson/status/1950852155008770555|https://x.com/aigleeson/status/1950852155008770555>
+2025-08-02T19:58:08.768969+00:00 | Ara: Hey <@U098289ML6P> &amp; <@U0993B5MZSM>! I’m thinking about setting up a daily 30 min stand-up for our product development team as well, and wanted to ask if you guys had a preferred time.
+
+1. 10:30am EST , 8:00pm IST
+2. 11:00pm EST , 8:30am IST
+3. 11:30pm EST  , 9:00am IST
+2025-08-04T05:51:32.188019+00:00 | Paridhi Talwar: I am okay with the first one...wbu <@U0993B5MZSM>?
+2025-08-04T13:48:30.424359+00:00 | Suhaas: I am fine with any time above going forward.
+2025-08-04T14:53:37.550139+00:00 | Suhaas: Can someone share the roadmap deck?
+2025-08-04T14:56:00.666719+00:00 | Ara: <https://olis874.sharepoint.com/sites/welcometoolis/_layouts/15/doc.aspx?sourcedoc={08052db7-07df-4b64-b28f-96137fdc03df}&amp;action=edit>
+2025-08-04T14:57:22.547929+00:00 | Ara: The one shared in the meeting was from our weekly meeting deck, so I just transferred the roadmap part to a new deck.
+2025-08-04T21:47:04.525209+00:00 | Ara: *Question to think about:*
+
+As we build out a pricing plan for the customers, we would like to know... For orgs without internal IT infra (e.g., emerging markets, smaller companies and agencies), would they require something like Olis hosted server instances, or is that not required? What would be the minimum requirements for Olis to be hosted?
+2025-08-06T17:39:21.999469+00:00 | Ara: Hey <!here>, just created a new email alias for the prod. dev. team:
+2025-08-06T17:39:58.925369+00:00 | Ara: Please add <mailto:engineers@olis-ai.com|engineers@olis-ai.com> into your shared mailboxes, and feel free to use it when signing up for team projects!
+2025-08-06T19:59:15.300119+00:00 | Ara: Olis flow chart in Figma has been shared to your email; <https://www.figma.com/board/sz6VTDnRMUxXs70mrrZ7b5/Olis-Flow-Chart?node-id=0-1&amp;p=f&amp;t=S9jjxl5r3wzeTWhg-0|link>. I will continue to adjust and edit as we go, but feel free to change them as needed!
+2025-08-06T21:02:42.683409+00:00 | Ara: Also, I just found out through our IT guy, that once Olis is deployed inside an enterprise environment, and enterprise consents, that gives us the authorization to access datas within all their systems and platforms even across third part apps (like Slack, Sharepoint, JIRA, Confluence, Oracle, etc), AS LONG AS we don't EXTRACT the data out of the apps, read & meta data only)
+2025-08-06T21:07:04.415239+00:00 | Ara: Glean
+• Connects to 100+ enterprise apps (Slack, Notion, GitHub, Salesforce).
+• Requires enterprise admin to *authorize each connection*.
+• Doesn’t extract data out of tenant, *uses live index or secure mirror.*
+Palantir
+• Each app connected is *governed via tenant-wide policy + access logs*.
+2025-08-07T05:30:54.516079+00:00 | Paridhi Talwar: So does that mean Olis would be able to extract conversations as well without integration?
+2025-08-08T15:31:33.370359+00:00 | Ara: Yes. We can use the public, documented enterprise APIs client offer (OAuth based), as long as client's tech team explicitly grants Olis permission through those APIs, and we stay within the scope of what the client has authorized.
+2025-08-08T15:57:04.705809+00:00 | Ara: Option 4 (by Yujin): Have the questions underlined for users to click and view Olis's suggestion/answers. (of course, same as other options, try out and use what's the most convenient to build for now)
+2025-08-09T04:46:41.083219+00:00 | Ara: Have a great weekend, Paridhi, Suhaas! Great work on completing the RAG build. :clap::tada:
+2025-08-10T21:29:30.326839+00:00 | Anna: <@U099VGTSVKN> has joined the channel
+2025-08-12T13:59:54.245659+00:00 | Ara: <@U098289ML6P>, <@U0993B5MZSM>, if you guys are both available, let's still meet at 10am EST (8:30pm IST) for prod dev. meeting today.
+2025-08-12T14:01:41.952559+00:00 | Paridhi Talwar: No problem!
+2025-08-12T18:37:54.181399+00:00 | Ara: Hey <@U098289ML6P>, <@U0993B5MZSM>, just a heads up, we're going to extend our Thursday's prod dev meeting by 30 minutes as Yujin will be joining us to discuss UX/UI! :raised_hands:
+2025-08-13T06:30:47.253199+00:00 | Paridhi Talwar: Done! Excited to meet her haha
+2025-08-13T15:11:43.107289+00:00 | Suhaas: 4138244724
+2025-08-14T14:08:47.784699+00:00 | Suhaas: Hey <!channel> I won't be able to attend today's Product meeting. Got some packing and cleaning work to do :smiling_face_with_tear:
+I can sync up later.
+2025-08-14T16:07:32.031709+00:00 | Yujin: <@U09AJ4FN10C> has joined the channel
+2025-08-15T16:10:29.559979+00:00 | Ara: *(THU, Aug 14) Prod dev meeting + UX + KPI* 
+
+1. <https://www.notion.so/23ea56d395458044acaccb97fba483c1?v=23ea56d3954580028ad0000c0b3adddb&amp;p=245a56d3954580ae9cc1d1d0b328494e&amp;pm=s|Meeting Notes>
+2. <https://www.notion.so/24fa56d395458000acbbe0477cc48047?v=24fa56d395458042aa34000c506fcd28|Product Roadmap + Features list> can now be accessible through Notion.
+2025-08-18T04:18:01.522209+00:00 | Yujin: <@U09AJ4FN10C> has left the channel
+2025-08-18T04:18:10.238039+00:00 | yujin: <@U09ALRTBA9H> has joined the channel
+2025-08-18T04:20:18.962359+00:00 | yujin: Hi <@U098289ML6P>,
+I have made some progress on the initial wireframes!
+<https://www.figma.com/design/yjOIkB0xLvushC72Znv33b/Olis-Product?node-id=0-1&amp;t=olGJLXE1GZHxTnwY-1>
+2025-08-18T04:20:59.189829+00:00 | yujin: I've also recorded a walkthrough, this is new for me but trying to find ways to connect asynchronously !
+<https://www.loom.com/share/98d7a594c62742fb8c0c3723bfef4167?sid=7c23304b-c30b-455e-a126-ec3ed2e91599>
+2025-08-18T04:21:16.671459+00:00 | yujin: If anyone else is curious feel free to go through the AI summary :slightly_smiling_face:
+2025-08-18T04:22:50.862339+00:00 | Paridhi Talwar: Thank you so much Yujin! I'll go through them and let you know
+2025-08-18T04:29:14.700869+00:00 | Ara: #clips you're the best
+2025-08-18T04:36:11.555249+00:00 | Ara: made this channel *public*. Any member in this workspace can see and join it.
+2025-08-18T16:50:52.074989+00:00 | Ara: <@U098289ML6P>, <@U0993B5MZSM>, Sol's suggestion for managing data that might include personal &amp; irrelevant data, have the "software" collect the data that we need. Idk how plausible that is, but perhaps an option for us?
+2025-08-19T14:31:52.022199+00:00 | Suhaas: Joining in 5 mins
+2025-08-19T14:34:46.596129+00:00 | Ara: No worries! Speak soon :slightly_smiling_face:
+2025-08-19T17:43:35.474389+00:00 | Ara: New Olis brand mood board from <@U09ALRTBA9H>! <https://www.cosmos.so/mars.yujin/olis-new>
+2025-08-19T18:04:59.740739+00:00 | Ara: <@U0993B5MZSM>, <@U098289ML6P>, is there currently a limit to how many questions Olis can answer at the same time? If 30 employees were typing questions in an enterprise, would Olis be able to retrieve answers for all 30?
+2025-08-20T15:14:42.183769+00:00 | Paridhi Talwar:
+2025-08-21T04:17:18.901349+00:00 | Paridhi Talwar:
+2025-08-21T14:28:46.767759+00:00 | Suhaas: I am at the thesis defense of my friend and won't be able to join now. I will connect with both of you separately later today.
+2025-08-22T15:26:31.751049+00:00 | Paridhi Talwar:
+2025-08-23T00:44:34.972029+00:00 | Ara: ^ We're going to do this. Bigger and better. I'm going to say "Roy has no clue on how to market, so he created cluely."
+2025-08-23T00:44:37.550109+00:00 | Ara: JK
+2025-08-23T00:45:44.638069+00:00 | Ara: BTW <@U098289ML6P>, <@U0993B5MZSM>, did you guys know about this feature in MS? You can type in / and a word, and it automatically searches all the files you have access to... :exploding_head: It's super fast as well...
+2025-08-23T04:59:43.369459+00:00 | Yujin: <@U09AJ4FN10C> has joined the channel
+2025-08-23T22:44:54.428869+00:00 | yujin: this was also such a useful feature in outlook -- it shows you relevant files for your meeting
+2025-08-25T15:27:30.929769+00:00 | Ji Su Lee: <@U09BYBGEC5A> has joined the channel
+2025-08-25T15:40:44.804499+00:00 | Suhaas: Hey <@U094M5BR6AZ> you up for quick call now?
+2025-08-25T15:41:24.654489+00:00 | Paridhi Talwar: We just finished the interview!
+2025-08-25T15:42:15.302849+00:00 | Ara: Yes!
+2025-08-25T15:42:24.898449+00:00 | Ara: Send me a link please
+2025-08-25T15:43:36.977969+00:00 | Paridhi Talwar: let's come on the product team meeting?
+2025-08-25T15:43:44.778399+00:00 | Ara: OK :+1:
+2025-09-02T14:34:30.273279+00:00 | Paridhi Talwar: <https://www.mdpi.com/2813-0324/11/1/20>
+2025-09-04T01:59:35.550999+00:00 | yujin: <https://www.fiddler.ai/resources/10-lessons-from-developing-an-ai-chatbot-using-retrieval-augmented-generation?utm_source=chatgpt.com>
+2025-09-04T13:08:02.197829+00:00 | Ara: Hey everyone,
+
+I unfortunately have to cancel today’s one-on-one’s <@U098289ML6P> <@U0993B5MZSM> <@U099VGTSVKN>, and will be unable to make the product meeting… Still in the trenches of food poisoning :sob:  If someone could transcribe / take notes on Notion I can review later. Sorry guys!
+2025-09-04T13:12:19.807569+00:00 | Paridhi Talwar: No worries! Take care!
+2025-09-04T13:39:21.617629+00:00 | Anna: understandable! take the day to rest and hope you feel better.
+2025-09-04T14:13:38.131379+00:00 | Suhaas: Take care Ara!
+2025-09-04T19:51:12.820059+00:00 | yujin: <https://ui.shadcn.com/examples/dashboard>
+
+we could use for internal tracking
+2025-09-04T19:54:47.296879+00:00 | Anna: thanks for sharing, Yujin! will review this in more detail, but I like the simplicity and examples!
+2025-09-05T15:35:22.143069+00:00 | Daniel Kang: <@U09DMN6B3LK> has joined the channel
+2025-09-08T17:49:33.784019+00:00 | Ara: Cluely's privacy/compliance page: <https://trust.delve.co/cluely>
+2025-09-09T02:27:27.751599+00:00 | Ara: Today’s design meeting has been pushed to tomorrow, same time!
+2025-09-10T19:35:46.196509+00:00 | yujin: I just adjusted view settings for the figma file bc I noticed an anonymous lurker(!), lmk if you were viewing and got kick out
+2025-09-10T19:35:58.254799+00:00 | yujin: Please request view access!
+2025-09-10T19:38:49.494219+00:00 | Daniel Kang: Sorry that was me, wasn't logged into a Figma account.
+2025-09-10T19:39:50.388539+00:00 | Daniel Kang: Requested
+2025-09-10T19:41:17.564719+00:00 | Daniel Kang: Regarding the popup, I am running into issues: At least on Chrome, apparently popups from extensions are handled by Chrome itself, and the corners cannot be rounded. Seeing similar questions/answers online when I search.
+2025-09-10T19:42:56.766439+00:00 | Ara: Uh oh...
+2025-09-10T19:43:55.405619+00:00 | Ara: I have an extension for Framer, that's a bit rounded
+2025-09-10T19:44:10.832689+00:00 | Ara: Is this a different type of pop-up extension?
+2025-09-10T19:44:56.090919+00:00 | Ara: Or capital one extension, that the edges are _slightly_ rounded....
+2025-09-10T19:49:53.029739+00:00 | Daniel Kang: Seeing these, not sure.
+
+Investigating a work around?
+2025-09-10T19:50:20.574839+00:00 | Ara: Hm.... good call
+2025-09-10T19:50:23.742669+00:00 | Ara: Let me look into it too
+2025-09-10T19:52:05.408079+00:00 | Daniel Kang: <https://github.com/GoogleChrome/chrome-extensions-samples/issues/657>
+2025-09-10T19:54:02.476689+00:00 | Ara: Ok so there's no _actual_ way of rounding corners... they are injecting an "iframe" into the page and styling that?
+2025-09-10T19:56:04.222309+00:00 | Ara: They say "don’t use the browser action popup. Instead open a minimal popup that just injects or toggles a page overlay via a content script (like a floating panel)..."
+2025-09-10T20:21:55.448099+00:00 | Daniel Kang: I was looking into/trying that solution as well, but I couldn't implement it... Maybe Paridhi can take a stab at it when she is available?
+In the meantime:
+Tried to copy mocks as much as possible
+2025-09-10T20:31:06.387649+00:00 | Ara: Ahhhh I love ittttt :star-struck:
+2025-09-10T20:31:23.802369+00:00 | Ara: Yes... we'll need <@U098289ML6P>’s help...
+2025-09-10T20:31:40.159219+00:00 | Ara: Does the icon change depending on user credentials?
+2025-09-10T20:32:18.660259+00:00 | Ara: Similar to mockup, can we have it show Yujin's profile face? (just for familiarity and comfort of having human like touch...)
+2025-09-10T21:43:36.113619+00:00 | Daniel Kang:
+2025-09-10T21:44:04.023869+00:00 | Daniel Kang:
+2025-09-11T00:32:12.359989+00:00 | Ara: WOOHOO updates:star-struck: Just gotta get the edges rounded...
+2025-09-11T00:32:21.656489+00:00 | Ara: Great work Daniel!!
+2025-09-11T02:25:23.129429+00:00 | yujin: <@U09DMN6B3LK> this looks great! (nice to meet you!!)
+2025-09-11T02:36:05.258579+00:00 | Paridhi Talwar: The edges can't be rounded actually, the browsers don't let you do that
+2025-09-11T02:41:57.901769+00:00 | Paridhi Talwar: So the extension that we have is opening from the toggle bar and that can't be rounded but if we make it separate from that like how we had the floating icon extension and even the second panel that we have those can be rounded
+2025-09-12T00:15:33.113529+00:00 | Daniel Kang: Update:
+Settings page where it is at right now:
+I explored options regarding having the popup load differently in order to achieve the rounded corners to no success.
+I am also limited because of the browser, as the largest size it allows is 800 x 600.
+
+However, within those limitations, this is what I have so far, I believe it captures the essence of the navigation bar of the Settings panel.
+
+Deciding on my direction and handling some hiccups in the beginning took up some time, but now that I have it, it should not be much of a problem to get the 3 pages tomorrow, for General, Integrations and Security.
+2025-09-12T03:45:07.127129+00:00 | Paridhi Talwar: Hi Daniel dw I was able to convert most of the popup code that I had before to content_script with round corners
+2025-09-12T03:45:50.662139+00:00 | Paridhi Talwar: I'll send you that today so that you could integrate it with your settings page and other things
+2025-09-12T13:23:30.176689+00:00 | Paridhi Talwar: with rounded corners, does this look okay?
+2025-09-12T14:59:18.188939+00:00 | yujin: <https://www.figma.com/design/yjOIkB0xLvushC72Znv33b/Olis-Product?node-id=419-522&amp;t=je4bnvrYUf0mWxYH-1>
+2025-09-12T15:11:49.777059+00:00 | yujin: <https://ui.shadcn.com>
+2025-09-14T03:09:33.281469+00:00 | yujin: <!channel> Hey team, Monday design meeting is on rest for this week. I think I could use the extra time to focus on materials for big G. No interface updates from me, but feel free to leave any requests for designs / questions in this thread!
+2025-09-14T03:10:04.890189+00:00 | yujin: also, found this nifty tool for recording browser pages <https://cursorful.com/>
+2025-09-15T03:29:59.265599+00:00 | Daniel Kang: Checking out the branch settings-popup and running the extension, you should be able to see this
+2025-09-15T15:21:39.254859+00:00 | Paridhi Talwar:
+2025-09-15T15:21:50.678109+00:00 | Paridhi Talwar:
+2025-09-15T15:23:13.474569+00:00 | Paridhi Talwar: <https://www.glean.com/product/overview>
+2025-09-15T15:25:29.505769+00:00 | Paridhi Talwar: <https://www.glean.com/product/governance>
+2025-09-15T15:25:39.359669+00:00 | Ara: ^ <@U09BYBGEC5A>
+2025-09-15T22:13:50.705249+00:00 | Daniel Kang: <@U098289ML6P>
+I was able to insert the settings panel as an iframe.
+I am having trouble working around navigating the tabs of the settings panel, as a result of it being an iframe. This is for both the keyword panel, and the browser extension.
+Could you take a look? I have the most up to date code in the extensions branch.
+2025-09-15T22:16:58.362709+00:00 | Daniel Kang: Currently gives this:
+but unable to navigate to the existing integrations or security page.
+2025-09-15T23:04:56.385329+00:00 | Suhaas: 1. Faster now.
+2. Removed query decomposition. Query decomposition leads to better results but not adding it until it is optimized.
+3. In the popup display, each referenced source file has its own [file_name, last_updated, owner]. Since separate tiles don't exist for each file in the frontend now, I have added a dummy display for sources.
+2025-09-16T00:53:41.097189+00:00 | Daniel Kang: Formatting:
+Some keywords I set as positive/negative arbitrarily for testing purposes.
+2025-09-16T00:55:55.004669+00:00 | Daniel Kang: Up to date code is pushed to extension.

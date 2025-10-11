@@ -1,0 +1,17 @@
+# Slack Export
+# Name: DM__Ji Su Lee
+# Channel ID: D09BYBJ2Z60
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U09BYBGEC5A
+# Messages: 9
+# Exported at: 2025-09-16T04:52:16.202816+00:00
+############################################################
+2025-08-25T15:27:35.544879+00:00 | Ji Su Lee: Ji Su Lee joined Slack — take a second to say hello.
+2025-08-26T15:27:18.469479+00:00 | Suhaas: Hey Ji Su, can you share your availability today?
+2025-08-26T16:41:04.847049+00:00 | Ji Su Lee: Hey Suhaas! Sorry, I just checked Slack so I saw your message now. I have a meeting with Ara in about 20 minutes so after that, I'm pretty open.
+2025-08-27T14:05:51.866609+00:00 | Suhaas: Hey Ji Su, sorry had some work yesterday. Will be free after 10 AM PST?
+2025-08-27T19:34:22.664459+00:00 | Ji Su Lee: Hi Suhaas, no worries. I have a meeting right now so I'll be free in about an hour if that works for you? 5pm EST?
+2025-08-28T14:13:19.311229+00:00 | Suhaas: Hey Ji Su, I have shared the invite for 2 PM EST. If the time does not suit you, you can change it.
+2025-08-28T14:24:07.932909+00:00 | Ji Su Lee: Morning Suhaas, that works for me! Where did you share the invite? I haven't received anything on my end.
+2025-08-28T16:32:31.487939+00:00 | Suhaas: Invitation sent
+2025-08-28T16:49:03.420569+00:00 | Ji Su Lee: Received, thanks!

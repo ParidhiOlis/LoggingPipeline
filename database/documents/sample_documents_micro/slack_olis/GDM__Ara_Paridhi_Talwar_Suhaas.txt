@@ -1,0 +1,36 @@
+# Slack Export
+# Name: GDM__Ara_Paridhi_Talwar_Suhaas
+# Channel ID: C09AAREAQ11
+# Type: mpim, Private: True, IM: False, MPIM: True
+# Members: U094M5BR6AZ, U098289ML6P, U0993B5MZSM
+# Messages: 28
+# Exported at: 2025-09-16T04:52:15.634174+00:00
+############################################################
+2025-08-18T14:34:01.307709+00:00 | Ara: Good morning/evening <@U098289ML6P>, <@U0993B5MZSM>! Everyone still joining today's prod meeting? :slightly_smiling_face:
+2025-08-18T14:37:14.087319+00:00 | Paridhi Talwar: yess coming!
+2025-08-18T14:50:38.712169+00:00 | Paridhi Talwar: Do we have an NDA for google?
+2025-08-22T14:30:13.432899+00:00 | Ara: Good morning/evening both! Im running 5 minutes late with some household chores, start the meeting without me first!
+2025-08-25T05:07:35.767089+00:00 | Ara: Hello our most talented Olis team :clap: Yu Wati (SWE intern) responded saying that she's available for an *interview Monday at 11am EST*. I'll forward you guys the MS teams link. I know it's arranged at a short notice, but I wanted to bring you both support ASAP.
+2025-08-25T05:08:47.530819+00:00 | Ara: I'll cut our product meeting 5-10 mins short so you both can prepare for the interview. I've already spoken to her once, so this will be between just the 3 of you.
+2025-08-25T05:10:45.128419+00:00 | Ara: BTW I'm going to cut down on some of the meeting times this week to support more investor meetings.
+2025-08-25T05:11:54.153099+00:00 | Ara: ALSO (sorry lots of update :joy:), Jisu the new security engineer will be joining us on our product meeting starting Tue. He'll onboard Mon, and join us Tues.
+2025-08-25T05:14:30.071899+00:00 | Paridhi Talwar: Thank you Ara for the updates and also getting us help with new engineers!
+2025-08-25T05:27:10.184459+00:00 | Ara: Of course! Anything else you guys need, just let me know.
+2025-08-25T13:31:23.164449+00:00 | Suhaas: Ack Ara!
+2025-08-25T13:58:16.221409+00:00 | Ara: :joy: What happened?!
+2025-08-25T14:22:11.658149+00:00 | Ara: NVM guys Ji Su will be joining us in our product meeting today. We'll keep the introduction short so we can capture all the issues we discussed last week.
+2025-08-25T15:56:33.562749+00:00 | Ara: <https://www.linkedin.com/in/daniel-kang-01012000/>
+2025-08-26T19:10:37.796819+00:00 | Ara: We got Daniel to join!!! :raised_hands: And the best part is, he has experience with front-end building with javascript.
+2025-08-26T19:11:10.812919+00:00 | Ara: He's also comfortable with arranging the datas to align in this type of format:
+2025-08-26T19:11:43.519759+00:00 | Ara: HOWEVER, he's got volleyball tournaments this week, so he'll be able to join starting Sep 5th... :melting_face:
+2025-08-26T23:30:41.830229+00:00 | Suhaas: Yayy...It's fine. We can keep working on other things
+2025-08-27T03:31:39.887139+00:00 | Ara: I know... Yes, we'll fully focus on the backends for now.
+2025-09-01T08:00:02.087539+00:00 | Paridhi Talwar: current panel looks like this
+2025-09-02T15:54:30.560369+00:00 | Ara: <https://www.linkedin.com/in/owfafowora/>
+2025-09-02T16:01:51.313029+00:00 | Suhaas: lost the connection
+2025-09-02T16:08:35.008509+00:00 | Ara: Hahaha no worries :wink: It was time for us to end the meeting
+2025-09-02T16:08:37.640869+00:00 | Ara: Good timing
+2025-09-02T16:09:16.088869+00:00 | Ara: We'll talk more about investors if you guys want to hear about that next time!
+2025-09-05T14:30:53.268089+00:00 | Ara: Joining 2 minutes late!
+2025-09-09T14:33:41.973069+00:00 | Ara: Join us for the product meeting?
+2025-09-09T14:33:46.794769+00:00 | Ara: :face_with_peeking_eye:

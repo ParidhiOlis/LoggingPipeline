@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: rag-pipeline
+Version: 0.1
+Requires-Dist: clickhouse-driver
+Requires-Dist: pytest
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: structlog
+Requires-Dist: pydantic
+Requires-Dist: aiohttp
+Dynamic: requires-dist

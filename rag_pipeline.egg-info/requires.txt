@@ -1,0 +1,8 @@
+clickhouse-driver
+pytest
+fastapi
+uvicorn
+python-dotenv
+structlog
+pydantic
+aiohttp

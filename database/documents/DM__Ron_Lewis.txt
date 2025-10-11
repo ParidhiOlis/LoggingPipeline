@@ -1,0 +1,10 @@
+# Slack Export
+# Name: DM__Ron Lewis
+# Channel ID: D099RADM753
+# Type: im, Private: False, IM: True, MPIM: False
+# Members: U099RAD9RGV
+# Messages: 2
+# Exported at: 2025-09-16T04:52:17.129412+00:00
+############################################################
+2025-08-10T20:05:46.715689+00:00 | Slackbot:
+2025-08-11T16:49:27.199109+00:00 | Ron Lewis: Ron Lewis joined Slack — take a second to say hello.
