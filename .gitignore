@@ -1,0 +1,4 @@
+.env
+database
+app/olis-rag-test
+.cache
